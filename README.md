@@ -1,6 +1,6 @@
 <h1 align="center">Minutes to Midnight</h1>
 
-![West Berlin pin on Fender bass strap](https://minutestomidnight.co.uk/images/west-berlin-bg.jpg)
+<img src="https://minutestomidnight.co.uk/wp-content/uploads/2020/07/afedb-icons_production_2.gif" alt="Minutes to Midnight" style="border-radius:30em" />
 
 <h3 align="center">Sound designer, producer and bassist</h3>
 
