@@ -1,5 +1,7 @@
 # Minutes to Midnight
 
+![West Berlin pin on Fender bass strap](https://minutestomidnight.co.uk/images/west-berlin-bg.jpg)
+
 ## Sound designer, producer and bassist
 
 Under the moniker “Minutes to Midnight”, I help independent artists find their sound.
