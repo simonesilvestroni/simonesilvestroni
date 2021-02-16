@@ -1,6 +1,6 @@
 <h1 align="center">Minutes to Midnight</h1>
 
-<img src="https://minutestomidnight.co.uk/wp-content/uploads/2020/07/afedb-icons_production_2.gif" alt="Minutes to Midnight" style="border-radius:30em" />
+<div align="center"><img src="https://minutestomidnight.co.uk/wp-content/uploads/2020/07/afedb-icons_production_2.gif" alt="Minutes to Midnight" /></div>
 
 <h3 align="center">Sound designer, producer and bassist</h3>
 
