@@ -1,16 +1,15 @@
-### Hi there 👋
+# Minutes to Midnight
 
-<!--
-**minutes2midnight/minutes2midnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sound designer, producer and bassist
 
-Here are some ideas to get you started:
+Under the moniker “Minutes to Midnight”, I help independent artists find their sound.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cross-disciplinary professional, I've been working in the audio and web design industries for more than 25 years. Both as a team player or independent, I bring strong attention to details and problem-solving.
+
+- 🔭 I’m currently working on setting up my **Jekyll** local repository, so that I can handle all my documentation better than I can do through my OS. In the future, I plan to refactor my current WordPress site and migrate everything to Jekyll.
+- 📫 How to reach me: 
+  - [Website](https://minutestomidnight.co.uk "Official website and blog")
+  - [LinkedIn](https://uk.linkedin.com/in/minutes2mid/ "Full professional profile")
+  - [Bandcamp](https://minutestomidnight.bandcamp.com/ "My music, in high definition")
+  - [Spotify](https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw "My music, in streaming")
+  - [YouTube](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/ "Music videos")
