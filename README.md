@@ -8,9 +8,12 @@
 
 Under the moniker “Minutes to Midnight”, I help independent artists find their sound.
 
-> Cross-disciplinary professional, I've been working in the audio and web design industries for more than 25 years. Both as a team player or independent, I bring strong attention to details and problem-solving.
+**Cross-disciplinary professional**, I've been working in the audio and web design industries for more than 25 years. Both as a team player or independent, I bring strong attention to details and problem-solving.
 
-🔭 I’m currently working on setting up my **Jekyll** local repository, so that I can handle all my documentation better than I can do through my OS. In the future, I plan to refactor my current WordPress site and migrate everything to Jekyll.
+Currently working on:
+
+- 👨🏻‍💻 Migrating my whole [website, portfolio and blog](https://minutestomidnight.co.uk) from WordPress to **Jekyll**.
+- 🎧 My [next concept album](https://music.minutestomidnight.co.uk), titled *The Die is Cast*.
 
 ---
 
