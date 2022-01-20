@@ -1,14 +1,10 @@
-<h1 align="center">Minutes to Midnight</h1>
+<div align="center">
+  <img src="https://minutestomidnight.co.uk/wp-content/uploads/2020/07/afedb-icons_production_2.gif" alt="Minutes to Midnight" />
+</div>
 
-<div align="center"><img src="https://minutestomidnight.co.uk/wp-content/uploads/2020/07/afedb-icons_production_2.gif" alt="Minutes to Midnight" /></div>
+<h2 align="center">I’m a liaison between creativity and logic.</h2>
 
-<h3 align="center">Sound designer, web developer</h3>
-
----
-
-I’ve been working as a sound and web designer for more than 25 years.
-
-As a team player or independent, I bring strong attention to details, problem-solving and on-time delivery.
+A digital polymath, I’ve been working as a sound and web designer for more than 25 years. As a team player or independent, I bring attention to detail, problem-solving and on-time delivery.
 
 ### Recently released
 
