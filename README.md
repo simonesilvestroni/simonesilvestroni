@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/minutes2midnight/minutes2midnight/blob/main/m2m-brand.jpg" width="1280" height="248" alt="Minutes to Midnight" />
+  <img src="https://github.com/minutes2midnight/minutes2midnight/blob/main/m2m-brand.jpg" width="830" height="161" alt="Minutes to Midnight" />
 </div>
 
 <h2 align="center">I’m a liaison between creativity and logic.</h2>
