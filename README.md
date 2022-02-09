@@ -16,8 +16,9 @@ A digital polymath, I’ve been working as a sound and web designer for more tha
 
 ### Currently working on
 
-- 👨🏻‍💻 Migrating my [website, portfolio and blog](https://minutestomidnight.co.uk) from WordPress to **Jekyll**.
-- 🎧 Complete my [new concept album](https://music.minutestomidnight.co.uk), titled *The Die is Cast*.
+- 👨🏻‍💻 Writing a case study on how I migrated my [website, portfolio and blog](https://minutestomidnight.co.uk) from WordPress to **Jekyll**.
+- 🎮 Completing my Audiokinetic **Wwise certifications**.
+- 🎧 Writing a [new concept album](https://music.minutestomidnight.co.uk), titled *Crossing the Rubicon*.
 
 ---
 
