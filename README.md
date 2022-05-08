@@ -21,9 +21,7 @@ I create and produce sound and music across multiple media and make  websites us
 - 🎮 Completing my Audiokinetic **Wwise certifications**.
 - 🎧 Writing a [new concept album](https://music.minutestomidnight.co.uk), titled *Crossing the Rubicon*.
 
----
-
-### 📫 Find me
+## 📫 Find me
 
 - [Website](https://minutestomidnight.co.uk)
 - [Bandcamp](https://minutestomidnight.bandcamp.com/)
