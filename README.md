@@ -2,11 +2,11 @@
   <img src="https://github.com/minutes2midnight/minutes2midnight/blob/main/m2m-brand.jpg" width="830" height="161" alt="Minutes to Midnight" />
 </div>
 
-<h2 align="center">I’m a digital polymath between sound and web design</h2>
+<h1 align="center">I’m a digital polymath between sound and web design</h1>
 
 I create and produce sound and music across multiple media and make  websites using Jekyll or WordPress. I started working in the publishing  industry in 1994 and transitioned to web design a year later, becoming  an expert in web standards. I’m also a professional bass player, a  composer and a field recordist.
 
-### Recently released
+## Recently released
 
 - 👨🏻‍💻 Article: [A human-readable RSS feed with Jekyll](https://minutestomidnight.co.uk/blog/build-a-human-readable-rss-with-jekyll/)
 
@@ -16,7 +16,7 @@ I create and produce sound and music across multiple media and make  websites us
 - 👨🏻‍💻 Website: [No Slack Day](https://noslackday.org)
 - 🎧 [*Non sai chi sono*](https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix), single co-produced with Emilio Albertoni
 
-### Currently working on
+## Currently working on
 
 - 🎮 Completing my Audiokinetic **Wwise certifications**.
 - 🎧 Writing a [new concept album](https://music.minutestomidnight.co.uk), titled *Crossing the Rubicon*.
