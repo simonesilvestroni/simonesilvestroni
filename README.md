@@ -4,7 +4,7 @@
 
 <h1 align="center">I’m a digital polymath between sound and web design</h1>
 
-I create and produce sound and music across multiple media and make  websites using Jekyll or WordPress. I started working in the publishing  industry in 1994 and transitioned to web design a year later, becoming  an expert in web standards. I’m also a professional bass player, a  composer and a field recordist.
+I create and produce sound and music across multiple media and make  websites using Jekyll or WordPress. I started out in the publishing  industry in 1994, soon transitioning to web design. I’m also a  professional bass player, a composer and a field recordist.
 
 ## Recently released
 
@@ -18,8 +18,9 @@ I create and produce sound and music across multiple media and make  websites us
 
 ## Currently working on
 
-- 🎮 Completing my Audiokinetic **Wwise certifications**.
-- 🎧 Writing a [new concept album](https://music.minutestomidnight.co.uk), titled *Crossing the Rubicon*.
+- 🎧 **Mastering** audio tracks
+- 🎮 Completing my Audiokinetic **Wwise certifications**
+- 🎧 Writing a [new concept album](https://music.minutestomidnight.co.uk)
 
 ## 📫 Find me
 
