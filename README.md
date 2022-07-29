@@ -9,7 +9,6 @@ I create and produce sound and music across multiple media and make  websites us
 ## Recently released
 
 - 👨🏻‍💻 Article: [A human-readable RSS feed with Jekyll](https://minutestomidnight.co.uk/blog/build-a-human-readable-rss-with-jekyll/)
-
 - 👨🏻‍💻 Website: [Minutes to Midnight](https://minutestomidnight.co.uk)
 - 👨🏻‍💻 Website: [Silvia Maggi Design](https://silviamaggidesign.com)
 - 🎧 [*The Die is Cast*](https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview), mini-EP preview
@@ -29,5 +28,4 @@ I create and produce sound and music across multiple media and make  websites us
 - [Mastodon](https://indieweb.social/web/@m2m)
 - [YouTube](https://www.youtube.com/channel/UCXO3ZbalCLwCZwHk_UkDBHg/)
 - [Spotify](https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw)
-
 - [LinkedIn](https://uk.linkedin.com/in/minutes2mid/)
