@@ -23,7 +23,7 @@ I create and produce sound and music across multiple media and make  websites us
 
 ## 📫 Find me
 
-- [Music band](https://minutestomidnight.co.uk)
+- [Original music](https://minutestomidnight.co.uk)
 - [Bandcamp](https://minutestomidnight.bandcamp.com/)
 - [Mastodon](https://indieweb.social/web/@m2m)
 - [YouTube](https://www.youtube.com/@m2m)
