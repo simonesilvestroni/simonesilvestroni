@@ -23,9 +23,9 @@ I create and produce sound and music across multiple media and make  websites us
 
 ## 📫 Find me
 
-- [Website](https://minutestomidnight.co.uk)
+- [Music band](https://minutestomidnight.co.uk)
 - [Bandcamp](https://minutestomidnight.bandcamp.com/)
 - [Mastodon](https://indieweb.social/web/@m2m)
 - [YouTube](https://www.youtube.com/@m2m)
 - [Spotify](https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw)
-- [LinkedIn](https://uk.linkedin.com/in/minutes2mid/)
+- [LinkedIn](https://uk.linkedin.com/in/simonesilvestroni/)
