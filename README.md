@@ -11,21 +11,20 @@ I create and produce sound and music across multiple media and make  websites us
 - 👨🏻‍💻 Article: [A human-readable RSS feed with Jekyll](https://minutestomidnight.co.uk/blog/build-a-human-readable-rss-with-jekyll/)
 - 👨🏻‍💻 Website: [Minutes to Midnight](https://minutestomidnight.co.uk)
 - 👨🏻‍💻 Website: [Silvia Maggi Design](https://silviamaggidesign.com)
-- 🎧 [*The Die is Cast*](https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview), mini-EP preview
+- 💿 [*The Die is Cast*](https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview), mini-EP
 - 👨🏻‍💻 Website: [No Slack Day](https://noslackday.org)
-- 🎧 [*Non sai chi sono*](https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix), single co-produced with Emilio Albertoni
+- 💿 [*Non sai chi sono*](https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix), single co-produced with Emilio Albertoni
 
 ## Currently working on
 
-- 🎧 **Mastering** audio tracks
+- 💿 **Mixing** a 6-song album
 - 🎮 Completing my Audiokinetic **Wwise certifications**
-- 🎧 Writing a [new concept album](https://music.minutestomidnight.co.uk)
+- 💿 Writing a new **concept album**
 
 ## 📫 Find me
 
-- [Original music](https://minutestomidnight.co.uk)
+- [Website](https://minutestomidnight.co.uk)
 - [Bandcamp](https://minutestomidnight.bandcamp.com/)
-- [Mastodon](https://indieweb.social/web/@m2m)
 - [YouTube](https://www.youtube.com/@m2m)
 - [Spotify](https://open.spotify.com/artist/250igOmtd9HCpGyXDWUcl9?si=d9t8bLC2QfG8iT1R3y9CAw)
 - [LinkedIn](https://uk.linkedin.com/in/simonesilvestroni/)
