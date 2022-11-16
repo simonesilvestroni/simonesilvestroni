@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github.com/minutes2midnight/minutes2midnight/blob/main/m2m-brand.jpg" width="830" height="161" alt="Minutes to Midnight" />
-</div>
-
-<h1 align="center">I’m a digital polymath between sound and web design</h1>
+# I’m a digital polymath between sound and web design
 
 I create and produce sound and music across multiple media and make  websites using Jekyll or WordPress. I started out in the publishing  industry in 1994, soon transitioning to web design. I’m also a  professional bass player, a composer and a field recordist.
 
