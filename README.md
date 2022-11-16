@@ -7,8 +7,8 @@ I create and produce sound and music across multiple media and make  websites us
 - 👨🏻‍💻 [Article] [A human-readable RSS feed with Jekyll](https://minutestomidnight.co.uk/blog/build-a-human-readable-rss-with-jekyll/)
 - 👨🏻‍💻 [Website] [Minutes to Midnight](https://minutestomidnight.co.uk)
 - 👨🏻‍💻 [Website] [Silvia Maggi Design](https://silviamaggidesign.com)
-- 💿 [Music EP] [*The Die is Cast*](https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview)
 - 👨🏻‍💻 [Website] [No Slack Day](https://noslackday.org)
+- 💿 [Music EP] [*The Die is Cast*](https://music.minutestomidnight.co.uk/album/the-die-is-cast-ep-preview)
 - 💿 [Music single] [*Non sai chi sono*](https://music.minutestomidnight.co.uk/track/non-sai-chi-sono-remix)
 
 ## 📫 Find me
