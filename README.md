@@ -1,6 +1,6 @@
 # I’m a digital polymath between sound and web design
 
-I create and produce sound and music across multiple media and make  websites using Jekyll or WordPress. I started out in the publishing  industry in 1994, soon transitioning to web design. I’m also a  professional bass player, a composer and a field recordist.
+I create and produce sound and music across multiple media and make  websites using Jekyll or WordPress. I started out in the publishing  industry in 1994, soon transitioning to web design. I’m also a  professional music producer, bass player and sound designer.
 
 ## Recent releases
 
