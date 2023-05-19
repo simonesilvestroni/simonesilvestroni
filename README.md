@@ -1,6 +1,8 @@
 # I’m a digital polymath between sound and web design
 
-Sound designer, bass player and music producer since the 1990s, I also crafted a parallel career designing and coding accessible websites since 1998, now using Jekyll and WordPress.
+I’m Simone (he/him), a straight to the point hyper-focused person with several major interests, such as audio, development, storytelling.
+
+Unlike the proverbial _jack of all trades_, I truly embrace my eclectic career, and love how it made me fluent in three different fields. Being able to competently juggle between design, web development and sound design, created a constant flow of curiosity and cross-disciplinary interests.
 
 ## 📫 Find me
 
