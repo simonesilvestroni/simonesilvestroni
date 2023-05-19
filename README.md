@@ -10,3 +10,5 @@ Unlike the proverbial _jack of all trades_, I truly embrace my eclectic career, 
 - [Tech website](https://simonesilvestroni.com)
 - [Bandcamp](https://minutestomidnight.bandcamp.com/)
 - [YouTube](https://www.youtube.com/@m2m)
+
+[![My Skills](https://skillicons.dev/icons?i=bash,css,fediverse,figma,git,html,ai,js,linux,md,mysql,netlify,ps,php,sass,svg,unity,wordpress&perline=6)](https://skillicons.dev)
