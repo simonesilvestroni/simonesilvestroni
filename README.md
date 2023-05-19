@@ -11,4 +11,8 @@ Unlike the proverbial _jack of all trades_, I truly embrace my eclectic career, 
 - [Bandcamp](https://minutestomidnight.bandcamp.com/)
 - [YouTube](https://www.youtube.com/@m2m)
 
+## Skills
+
 [![My Skills](https://skillicons.dev/icons?i=bash,css,fediverse,figma,git,html,ai,js,linux,md,mysql,netlify,ps,php,sass,svg,unity,wordpress&perline=6)](https://skillicons.dev)
+
+For a more exhaustive list [head over to my work page](https://minutestomidnight.co.uk/work/).
