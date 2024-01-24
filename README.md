@@ -1,17 +1,12 @@
-# I’m a digital polymath between sound and web design
+# I use [**sound**](https://minutestomidnight.co.uk/sound-design/) and [**web technology**](https://minutestomidnight.co.uk/web-design/) to turn ideas into an enjoyable experience
 
-I’m Simone (he/him), a straight to the point hyper-focused person with several major interests, such as audio, development, storytelling.
-
-Started at 16 as a bassist, I learned the craft of audio engineering as a studio assistant during the 1990s. After moving to the big city, I’ve explored design and programming jobs as a source of income, and was eventually hired as a sound designer for video games, to me the ultimate audio-visual narrative medium. Having managed to make a career out of each passion of mine means being able to competently juggle between different disciplines, which creates a constant flow of curiosity, and a desire for improvement.
+Based in Cambridge (UK), I’m a gen X with a straight to the point  attitude. Gravitating around duality, I use a mix of instinct and  academic learning to juggle between art and technology in equal measure.
 
 ## 📫 Find me
 
 - [Website](https://minutestomidnight.co.uk)
 - [Bandcamp](https://minutestomidnight.bandcamp.com/)
-- [YouTube](https://www.youtube.com/@m2m)
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,css,fediverse,figma,git,html,ai,js,linux,md,mysql,netlify,ps,php,sass,svg,unity,wordpress&perline=6)](https://skillicons.dev)
-
-For a more exhaustive list [head over to my work page](https://minutestomidnight.co.uk/work/).
+[![My Skills](https://skillicons.dev/icons?i=bash,css,fediverse,figma,git,html,ai,js,linux,md,mysql,netlify,ps,php,ruby,sass,svg,wordpress,yaml&perline=6)](https://skillicons.dev)
