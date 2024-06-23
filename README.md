@@ -1,6 +1,8 @@
-# I use [**sound**](https://minutestomidnight.co.uk/sound-design/) and [**web technology**](https://minutestomidnight.co.uk/web-design/) to turn ideas into an enjoyable experience
+A gen-X with a straight to the point attitude, I use a mix of instinct and learning to juggle between creativity and technology.
 
-A gen X with a straight to the point attitude, I gravitate around duality. Using a mix of instinct and academic learning, I juggle between art and technology in equal measure. Based in Cambridge (UK), I work in web design and sound production under the moniker _Minutes to Midnight_.
+Based in the UK, I work as a music producer under the moniker _Minutes to Midnight_.
+
+In previous lives I was a `#GameAudio` designer and a `#WebDeveloper`.
 
 ## 📫 Find me
 
