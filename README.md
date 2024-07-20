@@ -11,4 +11,4 @@ In previous lives I was a `#GameAudio` designer and a `#WebDeveloper`.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=apple,bash,bootstrap,cloudflare,codepen,css,fediverse,figma,git,github,gitlab,gulp,html,ai,linux,md,mastodon,mysql,netlify,nodejs,notion,npm,obsidian,ps,php,powershell,regex,ruby,sass,sublime,svg,unity,unreal,visualstudio,vscode,windows,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,bash,bootstrap,cloudflare,codepen,css,fediverse,figma,git,github,gitlab,gulp,html,ai,linux,md,mastodon,mysql,netlify,nodejs,notion,npm,obsidian,ps,php,powershell,regex,ruby,sass,sublime,svg,unity,unreal,visualstudio,vscode,windows,wordpress&perline=4)](https://skillicons.dev)
