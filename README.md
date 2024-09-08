@@ -1,8 +1,8 @@
-A gen-X with a straight to the point attitude, I use a mix of instinct and learning to juggle between creativity and technology.
+A gen X with a straight to the point attitude, I use a mix of logic and creativity to juggle between art and technology.
 
-Based in the UK, I work as a music producer under the moniker _Minutes to Midnight_.
+Based in Cambridge, I play bass and design sound under the moniker _Minutes to Midnight_.
 
-In previous lives I was a `#GameAudio` designer and a `#WebDeveloper`.
+In previous lives I used to work as a game audio designer, and a web developer. Today, my day job is with the University of Cambridge.
 
 ## 📫 Find me
 
